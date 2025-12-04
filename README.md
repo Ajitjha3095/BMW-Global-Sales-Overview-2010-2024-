@@ -3,6 +3,10 @@
 
 Welcome to the BNW Sales Dashboard, a comprehensive data-visualization project built using Looker, Power BI and Tableau. The dashboard presents sales data for BNW vehicles over the period 2010–2024, offering key insights into performance across time, models, regions and other dimensions. The data was collected from a publicly available dataset on Kaggle.
 
+Explore here:
+Looker dashboards: [[Your Looker link](https://lookerstudio.google.com/reporting/b8c157e7-5205-4cc9-a478-9aaeb17badfa/page/zWGfF)]
+Tableau dashboard: [[Your Tableau link](https://public.tableau.com/app/profile/ajit.jha/viz/BMWSalesPerformanceDashboard/Dashboard1?publish=yes)]
+Full project & code: [[Your GitHub link]](https://github.com/Ajitjha3095/BMW-Global-Sales-Overview-2010-2024-)
 
 🎯 Key Metrics (KPIs)
 
