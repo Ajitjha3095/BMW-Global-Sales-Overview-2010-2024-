@@ -1,7 +1,7 @@
-🏎️ BNW Sales Dashboard (2010–2024)
+🏎️ BMW Sales Dashboard (2010–2024)
 📊 Overview
 
-Welcome to the BNW Sales Dashboard, a comprehensive data-visualization project built using Looker, Power BI and Tableau. The dashboard presents sales data for BNW vehicles over the period 2010–2024, offering key insights into performance across time, models, regions and other dimensions. The data was collected from a publicly available dataset on Kaggle.
+Welcome to the BMW Sales Dashboard, a comprehensive data-visualization project built using Looker, Power BI and Tableau. The dashboard presents sales data for BNW vehicles over the period 2010–2024, offering key insights into performance across time, models, regions and other dimensions. The data was collected from a publicly available dataset on Kaggle.
 
 Explore here:
 [[Looker dashboards]](https://lookerstudio.google.com/reporting/b8c157e7-5205-4cc9-a478-9aaeb17badfa/page/zWGfF)
